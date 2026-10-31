@@ -56,7 +56,6 @@ The workflow includes:
 ## Data Sources
 - LINZ — New Zealand primary parcel data
 - Hamilton City Council — District Plan zoning
-- Independently developed study area
 - Synthetic flood polygons for analytical demonstration
 
 ## Important Limitations
