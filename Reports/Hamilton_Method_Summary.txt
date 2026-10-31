@@ -1,0 +1,8 @@
+HAMILTON - RESIDENTIAL PARCEL SCREENING
+Independent GIS portfolio demonstration 
+
+DATA: Local LINZ parcel extract, Hamilton City Council zoning service, user-created study boundary.
+METHOD: NZTM2000, study-area Clip, parcel-zoning Intersect, area-weighted residential zoning percentage and transparent illustrative screening.
+FLOOD: NOT ASSESSED. No claim of flood safety.
+LIMITATIONS: No legal buildability, road access, title/easements, infrastructure, site contamination or verified district-plan assessment.
+PUBLISHING: Verify council data licensing and AUT software terms before posting.
