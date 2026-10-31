@@ -50,6 +50,9 @@ The workflow includes:
 - Python Workflow: Automated GIS analysis and export
 - Documentation: Analytical methodology, sources, assumptions and limitations
 
+<img width="4961" height="3508" alt="Hamilton  Illustrative Flood A3 V3_1" src="https://github.com/user-attachments/assets/4780a4bf-ec58-4004-958a-496dd18e4eda" />
+
+
 ## Data Sources
 - LINZ — New Zealand primary parcel data
 - Hamilton City Council — District Plan zoning
